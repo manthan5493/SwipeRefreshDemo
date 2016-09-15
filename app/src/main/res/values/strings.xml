@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">SwipeRefreshDemo</string>
+
+    <string name="add_record">Add record</string>
+
+    <string name="view_record">View record</string>
+
+    <string name="name">Name</string>
+
+    <string name="msg_empty_name">Please enter name</string>
+
+    <string name="submit">Submit</string>
+
+
+    <string name="myAlphaNumeric">abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789</string>
+
+
+</resources>
