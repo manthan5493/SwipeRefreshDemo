@@ -83,7 +83,6 @@ public class ViewRecordActivity extends AppCompatActivity {
 //                                          adapter = new ArrayAdapter<String>(ViewRecordActivity.this, android.R.layout.simple_list_item_1, getNames());
 
                                           mListViewName.setAdapter(adapter);
-                                          mListViewName.setAdapter(adapter);
                                           mSwipeRefreshLayout.setRefreshing(false);
                                       };
                                   },100);
